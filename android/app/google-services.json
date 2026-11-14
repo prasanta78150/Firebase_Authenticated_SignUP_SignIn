@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645475491804",
+    "project_id": "signinout-8f03c",
+    "storage_bucket": "signinout-8f03c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645475491804:android:e43ab64c3ce5752757f919",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bloc_loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzG-UdsxbtdmrI-ickLUMbWVD_TUbV3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
